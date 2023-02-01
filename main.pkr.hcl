@@ -34,7 +34,7 @@ build {
       "FOO=hello world",
     ]
     scripts = [
-      "./file.txt"
+      "./file.sh"
     ]
   }
 }
